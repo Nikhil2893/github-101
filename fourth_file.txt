@@ -1,2 +1,6 @@
 #This is fourth file
 hello my name is nikhil
+I am Architect and 
+researcher also 
+
+tell me something about yourself
